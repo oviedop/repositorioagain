@@ -4,5 +4,8 @@
 
 Esta es la primera línea original de texto, y ya no termina aquí. Ahora termina aquí.
 
-Además añadimos esta otra línea.
+Además, añadimos esta otra línea.
 
+## Sección 2 Marco Teórico
+
+Aquí irá el marco teórico en el original.
