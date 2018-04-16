@@ -1,10 +1,19 @@
 # Titulo 1
 
-## Sección 1 Introducción
+## Sección 1 Marco teórico
 
-Esta es la primera línea original de texto, y ya no termina aquí. Ahora termina aquí.
+Esta es la primera línea de texto de la rama1, ya ya no termina aquí. Ahora termina aquí.
 
+## Sección 2. Introducción
+
+Ahora la introducción irá aquí.
+
+<<<<<<< HEAD
 Además, añadimos esta otra línea.
+||||||| merged common ancestors
+Además añadimos esta otra línea.
+=======
+>>>>>>> rama1
 
 ## Sección 2 Marco Teórico
 
